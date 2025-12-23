@@ -1,0 +1,5 @@
+.venv
+.env
+__pycache__/
+Ecommerce_KG_Optimized_translated.csv
+Ecommerce_KG_Optimized.csv

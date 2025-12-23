@@ -1,0 +1,13 @@
+pandas 
+spacy
+neo4j 
+networkx 
+scikit-learn
+numpy
+scipy
+google-trans
+dotenv
+huggingface_hub
+sentence-transformers
+plotly
+faiss-cpu
